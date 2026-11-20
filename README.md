@@ -394,7 +394,8 @@ def benchmark_learners(X, treatment, y, test_size=0.3):
         }
     return results
 ```
-# 业务报告
+# 业务报告`reports/experiment_readout.md`
+
 # 营销增量实验 Readout：从 A/B 显著性到 Uplift 定向策略
 
 ## 1. 实验健康检查
